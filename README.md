@@ -1,4 +1,4 @@
-# Book-_Store_Application
+# Book_Store_Application
 Create a book store application
 ## 
 Create a book store application which will help a book store owner to keep the record of its 
